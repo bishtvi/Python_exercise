@@ -45,3 +45,8 @@ unique_number.sort()
 second_largest = unique_number[-2]
 print(second_largest)
 
+numb = [ 1, 2, 3, 4, 5, 6]
+reverse_number = numb[::-1]
+print(reverse_number)
+print(numb)
+
